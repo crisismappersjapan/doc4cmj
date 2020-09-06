@@ -1,4 +1,5 @@
 # CrisisMappersJAPAN/災害ドローン救援隊DRONEBIRD/JapanFlyingLabs 行動規範 v1.0 正式版
+2020-09-06 updated
 2019-12-01 updated
 内容検討Issue: https://github.com/dronebird/docs4dronebirds/issues/14 (たたき台として使用)
 
