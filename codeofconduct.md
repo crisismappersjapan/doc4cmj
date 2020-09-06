@@ -1,7 +1,6 @@
 # CrisisMappersJAPAN/災害ドローン救援隊DRONEBIRD/JapanFlyingLabs 行動規範 v1.0 正式版
-[2020-09-06 updated](https://github.com/crisismappersjapan/doc4cmj/commit/343f28bf330201aa3113296fe733c595afe26787#diff-2ec28fbfa689dd89c02156c0f05e0ebe)
-
-2019-12-01 updated
+* [2020-09-06 updated](https://github.com/crisismappersjapan/doc4cmj/commit/343f28bf330201aa3113296fe733c595afe26787#diff-2ec28fbfa689dd89c02156c0f05e0ebe)
+* [2019-12-01 updated](https://github.com/crisismappersjapan/doc4cmj/commit/224f7a207c5a81720a4c5014509f0799e76936cb#diff-2ec28fbfa689dd89c02156c0f05e0ebe)
 
 内容検討Issue: https://github.com/dronebird/docs4dronebirds/issues/14 (たたき台として使用)
 
